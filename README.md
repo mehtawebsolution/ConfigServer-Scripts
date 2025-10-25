@@ -2,7 +2,7 @@
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CSF package:  wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
+3. Download the CSF package:  wget https://github.com/mehtawebsolution/ConfigServer-Scripts/blob/main/csf.tgz or wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
 4. Extract the package: tar -zxvf csf.tgz
 5. Navigate into the extracted directory:cd csf
 6. Run the installation script: ./install.sh
@@ -11,7 +11,7 @@ or if you want to unstall / remove
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CSF package:  wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
+3. Download the CSF package:  wget https://github.com/mehtawebsolution/ConfigServer-Scripts/blob/main/csf.tgz or wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
 4. Extract the package: tar -zxvf csf.tgz
 5. Navigate into the extracted directory:cd csf
 6. Run the installation script: ./uninstall.sh
@@ -22,7 +22,7 @@ or if you want to unstall / remove
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMM package:  wget https://mehtawebsolution.com/assets/scripts-main/cmm.tgz
+3. Download the CMM package:  wget https://github.com/mehtawebsolution/ConfigServer-Scripts/blob/main/cmm.tgz or wget https://mehtawebsolution.com/assets/scripts-main/cmm.tgz
 4. Extract the package: tar -zxvf cmm.tgz
 5. Navigate into the extracted directory:cd cmm
 6. Run the installation script: ./install.sh
@@ -31,7 +31,7 @@ or if you want to unstall / remove
  
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMM package:  wget https://mehtawebsolution.com/assets/scripts-main/cmm.tgz
+3. Download the CMM package:   wget https://github.com/mehtawebsolution/ConfigServer-Scripts/blob/main/cmm.tgz or wget https://mehtawebsolution.com/assets/scripts-main/cmm.tgz
 4. Extract the package: tar -zxvf cmm.tgz
 5. Navigate into the extracted directory:cd cmm
 6. Run the installation script: ./uninstall.sh
@@ -42,7 +42,7 @@ or if you want to unstall / remove
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMQ package:  wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
+3. Download the CMQ package:   wget https://github.com/mehtawebsolution/ConfigServer-Scripts/blob/main/cmq.tgz or wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
 4. Extract the package: tar -zxvf cmq.tgz
 5. Navigate into the extracted directory:cd cmq
 6. Run the installation script: ./install.sh
@@ -51,7 +51,7 @@ or if you want to unstall / remove
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMQ package:  wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
+3. Download the CMQ package: wget https://github.com/mehtawebsolution/ConfigServer-Scripts/blob/main/cmq.tgz or wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
 4. Extract the package: tar -zxvf cmq.tgz
 5. Navigate into the extracted directory:cd cmq
 6. Run the installation script: ./uninstall.sh
