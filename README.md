@@ -2,7 +2,7 @@
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMM package:  wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
+3. Download the CSF package:  wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
 4. Extract the package: tar -zxvf csf.tgz
 5. Navigate into the extracted directory:cd csf
 6. Run the installation script: ./install.sh
@@ -11,12 +11,12 @@ or if you want to unstall / remove
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMM package:  wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
+3. Download the CSF package:  wget https://mehtawebsolution.com/assets/scripts-main/csf.tgz
 4. Extract the package: tar -zxvf csf.tgz
 5. Navigate into the extracted directory:cd csf
 6. Run the installation script: ./uninstall.sh
 
-# Clean up the installation files: rm -rf /usr/local/src/csf*
+- Clean up the installation files: rm -rf /usr/local/src/csf*
 
 ------------------  Download & Install ConfigServer Mail Manage (CMM) cmm v3.00 ------------------ 
 
@@ -36,13 +36,13 @@ or if you want to unstall / remove
 5. Navigate into the extracted directory:cd cmm
 6. Run the installation script: ./uninstall.sh
 
-# Clean up the installation files: rm -rf /usr/local/src/cmm*
+- Clean up the installation files: rm -rf /usr/local/src/cmm*
 
 ------------------ Download & Install ConfigServer Mail Queues - (CMQ) cmq v4.00 ------------------ 
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMM package:  wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
+3. Download the CMQ package:  wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
 4. Extract the package: tar -zxvf cmq.tgz
 5. Navigate into the extracted directory:cd cmq
 6. Run the installation script: ./install.sh
@@ -51,12 +51,12 @@ or if you want to unstall / remove
 
 1. Connect to your server via SSH:
 2. Navigate to the /usr/local/src directory: cd /usr/local/src
-3. Download the CMM package:  wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
+3. Download the CMQ package:  wget https://mehtawebsolution.com/assets/scripts-main/cmq.tgz
 4. Extract the package: tar -zxvf cmq.tgz
 5. Navigate into the extracted directory:cd cmq
 6. Run the installation script: ./uninstall.sh
 
-# Clean up the installation files: rm -rf /usr/local/src/cmq*
+- Clean up the installation files: rm -rf /usr/local/src/cmq*
 
 
 
